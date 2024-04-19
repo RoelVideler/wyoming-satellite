@@ -6,6 +6,8 @@ Remote voice satellite using the [Wyoming protocol](https://github.com/rhasspy/w
 * Local wake word detection using [Wyoming services](https://github.com/rhasspy/wyoming#wyoming-projects)
 * Audio enhancements using [webrtc](https://github.com/rhasspy/webrtc-noise-gain/)
 
+Wyoming Satellite comes with an installer, head over to [This tutorial](docs/tutorial_installer.md) to get going.
+
 See [the tutorial](docs/tutorial_2mic.md) to build a satellite using a [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) and a [ReSpeaker 2Mic HAT](https://wiki.keyestudio.com/Ks0314_keyestudio_ReSpeaker_2-Mic_Pi_HAT_V1.0).
 
 Video tutorials:
